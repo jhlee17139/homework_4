@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 ### __2. 학습 데이터 다운로드__ ###   
 
-~~[다운로드 링크]()~~   
+https://drive.google.com/file/d/1oxUkSH12hJpgFif7Vv2Da1zdjn4XTpM2/view?usp=sharing  
 
 --> 이미 LMS로부터 받으신 분은 해당 zip파일 그대로 사용하시면 됩니다. 혹시나 LMS에 전체 데이터가 다 올라가지 않을까 염려되어 링크를 올려둔 것이니, 참고하시기 바랍니다.   
 +) 데이터.zip파일의 용량은 약 2.24GB이며, 확인해보시고 문제 있으시면 담당조교에게 문의 바랍니다.   
